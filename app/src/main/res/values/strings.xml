@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Обмен вещей</string>
+    <string name="keyword">Введите слова для поиска</string>
+
+    <string name="title_hint">Название</string>
+    <string name="maker_hint">Фирма</string>
+    <string name="description_hint">Описание</string>
+    <string name="length_hint">Длинна</string>
+    <string name="width_hint">Ширина</string>
+    <string name="height_hint">Высота</string>
+    <string name="dimensions_hint">Д x Ш x В</string>
+    <string name="status_hint">Статус</string>
+    <string name="borrower_hint">Под. заёмщика</string>
+    <string name="username_hint">Имя польз.</string>
+    <string name="email_hint">Email</string>
+    <string name="minimum_bid_hint">Мин. цена</string>
+    <string name="current_bid_hint">Текущ. цена</string>
+
+    <string name="rub_sign">RUB</string>
+    <string name="bidder">Участ. торгов</string>
+
+    <string name="save">Сохр.</string>
+    <string name="delete_item">Удаление</string>
+    <string name="login">Логин</string>
+    <string name="place_bid">Уст. Цену Продажи</string>
+    <string name="view_bids_button">Просмтр. продаж</string>
+    <string name="return_item_button">Установить доступ.</string>
+    <string name="accept_bid">Принять</string>
+    <string name="decline_bid">Отклонить</string>
+    <string name="decline_all_bids">Отклонить все ставки</string>
+    <string name="view_contact_info_button">Связаться с заём.</string>
+    <string name="borrower_return_item_button">Возврат</string>
+
+    <string name="edit_profile">Ред. профиль</string>
+    <string name="search">Поиск</string>
+    <string name="logout">Выход</string>
+    <string name="borrowed_items">Занят. Вещи</string>
+
+
+    <string name="image_icon">Картинка</string>
+
+    <string name="title_activity_main">Обмен вещей</string>
+    <string name="title_activity_login">Вход</string>
+
+</resources>
